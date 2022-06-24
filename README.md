@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mitchRyan1993
 - 👀 I’m interested in ... video game creation and development.
-- 🌱 I’m currently learning ... C++, C#, Javascript, CSS, HTML5, Python
+- 🌱 I’m currently learning ... C++, C#, Javascript, CSS, HTML5, Python, Java, SQL
 - 💞️ I’m looking to collaborate on ... anything to help progress my coding.
 - 📫 How to reach me ...
 
